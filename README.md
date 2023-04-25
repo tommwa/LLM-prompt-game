@@ -4,7 +4,7 @@
 
 The goal of this game is to generate prompts that increases the probability that the Large Language Model ([GPT-2](https://github.com/openai/gpt-2)) outputs a certain goal word next.
 
-For example, if the goal word is 'fries' you could write 'I like to eat french' and GPT-2 might predict 'fries'.
+For example, if the goal word is 'fries' you could write 'I like to eat french' and GPT-2 might predict 'fries'. (Or it might predict the word 'food' 'cuisine' or something else!)
 
 Try to write a sequence of words that is as short as possible, but still makes GPT-2 predict the goal word.
 
