@@ -1,0 +1,5 @@
+The data folder contains an english word frequency list taken from: https://github.com/IlyaSemenov/wikipedia-word-frequency/tree/master/results
+This has the MIT license which has been put in a textfile data/LICENSE-dataset.txt within the data folder.
+The word frequency list has been modified to only contain the 1000 most frequent words.
+
+The code written by me has been put in the src folder and also has the MIT license which can be found under src/LICENSE-src.txt.
